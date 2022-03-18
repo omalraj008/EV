@@ -299,7 +299,7 @@ h6 {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background: linear-gradient(0deg, #2a2c39 0%, #33364a 100%);
+  background: linear-gradient(0deg, #002147 50%, #33364a 100%);
   padding: 0;
 }
 #hero .carousel-container {
